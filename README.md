@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nikkashid
-- 👀 I’m interested in coding in java/kotlin for Android Development
+- 👀 I’m interested in coding java/kotlin for Android Development
 - 🌱 I’m currently learning dart language for Flutter Application Development
 - 📫 How to reach me gmail : nikhil.kashid1@gmail.com , LinkedIN : https://www.linkedin.com/in/nikhil-kashid-97260455/ 
 <!--- - 💞️ I’m looking to collaborate on ... --->
